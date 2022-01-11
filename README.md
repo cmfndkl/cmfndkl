@@ -1,6 +1,7 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Cem</h1>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/34371442/149038545-5a97ac23-e1ab-4572-a5cb-861033aa8cee.gif" alt="cmfndkl" width="320" height="320"/></p>
+<img src="https://user-images.githubusercontent.com/34371442/149038545-5a97ac23-e1ab-4572-a5cb-861033aa8cee.gif" alt="cmfndkl" width="320" height="320"/>
 
 
 <p align="left"> <a href="https://twitter.com/cmfndkl" target="blank"><img src="https://img.shields.io/twitter/follow/cmfndkl?logo=twitter&style=for-the-badge" alt="cmfndkl" /></a> </p>
